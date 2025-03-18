@@ -3,9 +3,8 @@
 
 <h3 align="left">👨🏻‍💻 About me</h3>
 
-- 🔭 I’m currently working on [Verifier](https://github.com/Wyntine/Verifier)
+- 🔭 I’m currently working on [Solara](https://github.com/Wyntine/Solara)
 - 📫 How can you reach me: [wyntine](https://discord.com/users/920360120469311578)
-- 📕 I'm not active due to exams for now...
 
 <p align="left"></p>
 
